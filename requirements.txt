@@ -1,0 +1,8 @@
+pandas
+numpy
+streamlit
+statsmodels
+datetime
+scikit-learn
+xlrd
+matplotlib
