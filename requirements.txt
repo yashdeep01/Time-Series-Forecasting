@@ -6,3 +6,5 @@ datetime
 scikit-learn
 xlrd
 matplotlib
+vega
+altair
