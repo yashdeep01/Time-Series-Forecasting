@@ -29,7 +29,6 @@ from statsmodels.tsa.holtwinters import ExponentialSmoothing
 from statsmodels.tsa.stattools import adfuller
 from statsmodels.tsa.arima_model import ARIMA
 from statsmodels.tsa.statespace.sarimax import SARIMAX
-from pmdarima import auto_arima
 
 import datetime
 from sklearn.metrics import mean_squared_error
