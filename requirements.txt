@@ -5,6 +5,7 @@ statsmodels
 datetime
 scikit-learn
 xlrd
+openpyxl
 matplotlib
 vega
 altair
